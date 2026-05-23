@@ -6,10 +6,6 @@ A clothing business wants to understand how it can increase its sales and freque
 ## **Problem Statement**
 The goal of this analysis is to identify the key factors that affect the sales performance and repeat customer purchases for the clothing business. By analyzing customer demographics, product category preferences and transaction behaviors (shipping and payment methods), we aim to provide actionable insight that can help increase the average purchase amount and boost purchase frequency per customer.
 
-### **Key questions to answer**
-- What demographics segment and product categories strongly influence repeat purchases?
-- How do shipping and payment methods impact average purchase amount value and purchase frequency?
-- What strategies can the business implement to increase revenue and strengthen customer retention?
 
 ## **Data Preparation**
 The dataset gathered from Kaggle shows 3900 rows and 18 columns. The initial inspection using df.head() and df.info() confirmed that there are no missing values in the dataset. 
