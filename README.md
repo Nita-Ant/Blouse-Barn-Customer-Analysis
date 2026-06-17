@@ -18,7 +18,7 @@ I used a shopping behavior dataset and imagined it to be Blouse Barn’s data. I
 ## **Project Guide**
 Tools used: Python (via Google Collab) and Power BI
 
-**Dashboard** - Power BI is used to visualize the Shopping Behavior Data. To view/download, go to *Dashboard/Customer Analysis Dashboard* or using Power BI online: 
+**Dashboard** - Power BI is used to visualize the Shopping Behavior Data. To view/download, go to *Dashboard/Customer Analysis Dashboard*.
 
 **Dataset** - The dataset came from Kaggle. To view/download, go to *data/shopping_behavior_updated (2)*
 
