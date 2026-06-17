@@ -16,14 +16,31 @@ I used a shopping behavior dataset and imagined it to be Blouse Barn’s data. I
 
 
 ## **Project Guide**
-Tools used: Python (via Google Collab) and Power BI
+### Tools used: 
+- Python (via Google Collab) - EDA
+- Power BI - data visualization
 
-**Dashboard** - Power BI is used to visualize the Shopping Behavior Data. To view/download, go to *Dashboard/Customer Analysis Dashboard*.
+### **Full Analysis Documentation** 
+- Documentation has been created, detailing the data preparation, analysis, and conclusions based on the dataset. To view or download, open Blouse Barn Customer Analysis Documentation.pdf. The contents include the following:
+  - Introduction
+  - Key Insights
+  - Data Preparation
+  - Analysis
+  - Conclusion
 
-**Dataset** - The dataset came from Kaggle. To view/download, go to *data/shopping_behavior_updated (2)*
+### **Data preparation** 
+- Python is used to check the data before doing the analysis. Same link is also found in the *Analysis Documentation.pdf*. Link: https://colab.research.google.com/drive/1qVHNV-fCCNL4goii8npFpv3U6big_ZpN?usp=sharing 
 
-**Full Analysis Documentation** - Documentation is created detailing the data preparation, analysis and conclusion using the dataset. To view/download, find *Blouse Barn Customer Analysis Documentation.pdf*.
+### **Dashboard** 
+- Power BI is used to visualize the Shopping Behavior Data. To view/download, go to *Dashboard/Customer Analysis Dashboard*.
 
-**Data preparation** - Python is used to check the data before doing the analysis. Same link is also found in the *Analysis Documentation.pdf*. Link: https://colab.research.google.com/drive/1qVHNV-fCCNL4goii8npFpv3U6big_ZpN?usp=sharing 
+<img width="1288" height="724" alt="image" src="https://github.com/user-attachments/assets/cc456309-a2a8-41e0-8bc8-d0a79fd5eba7" />
+
+### **Dataset** 
+- The dataset was obtained from Kaggle. To view or download, open data/shopping_behavior_updated (2) or visit the site link: https://www.kaggle.com/datasets/ranaghulamnabi/shopping-behavior-and-preferences-study
+
+<img width="1383" height="765" alt="image" src="https://github.com/user-attachments/assets/9350a27d-60a1-4525-9428-a7d44dc4aa43" />
+
+
 
 
