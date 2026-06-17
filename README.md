@@ -1,4 +1,4 @@
-# Clothing Retailer Customer Analysis
+# Blouse Barn Customer Analysis
 
 ## **Introduction**
 Inspired by TV Series Schitt’s Creek, I wonder what kind of analysis could help Wendy Kurtz, owner of Blouse Barn—a clothing retailer shop—if her new hire, David Rose, were to use his Power BI skills to help Wendy make better business decisions (unlike what she did in the series).
