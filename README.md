@@ -22,7 +22,7 @@ Tools used: Python (via Google Collab) and Power BI
 
 **Dataset** - The dataset came from Kaggle. To view/download, go to *data/shopping_behavior_updated (2)*
 
-**Full Analysis Documentation** - Documentation is created detailing the data preparation, analysis and conclusion using the dataset. To view/download, find *Analysis Documentation.pdf*.
+**Full Analysis Documentation** - Documentation is created detailing the data preparation, analysis and conclusion using the dataset. To view/download, find *Blouse Barn Customer Analysis Documentation.pdf*.
 
 **Data preparation** - Python is used to check the data before doing the analysis. Same link is also found in the *Analysis Documentation.pdf*. Link: https://colab.research.google.com/drive/1qVHNV-fCCNL4goii8npFpv3U6big_ZpN?usp=sharing 
 
